@@ -1,0 +1,17 @@
+- titulo:	"01 - Robótica en el Aula Clase 1"
+  desc:		"Primera presentación del Proyecto de Extensión \"Robótica en el Aula\" para las escuelas Escuela de Educación Secundaria Técnica Nº1 Almirante G. Brown, Escuela de Educación Técnica Nº2 Ing. Emilio Rebuelto y Escuela de Educación Secundaria Técnica Nº6 Albert Thomas en el año 2018."
+  fecha:	""
+  img:		"/img/exte/ext_001.png"
+  link:		"/files/extension/Robótica en el Aula Clase 1 Digital Arduino.pdf"
+
+- titulo:	"02 - Robótica en el Aula Clase 2"
+  desc:		"Segunda presentación del proyecto de extensión en la que se aborda el uso de pines analógicos en la plataforma Arduino."
+  fecha:	""
+  img:		"/img/exte/ext_002.png"
+  link:		"/files/extension/Robótica en el Aula Clase 2 Analogico Arduino.pdf"
+
+- titulo:	"03 - Robótica en el Aula Clase 3"
+  desc:		"Tercera presentación del proyecto de extensión en la que se exponen fundamentos del software y el hardware para el desarrolo de impresiones en 3D."
+  fecha:	""
+  img:		"/img/exte/ext_003.png"
+  link:		"/files/extension/Robótica en el Aula Clase 3 Taller 3D.pdf"
