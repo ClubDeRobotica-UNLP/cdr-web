@@ -1,0 +1,19 @@
+---
+layout: page
+title: Proyecto de Extensión
+descripcion: El objetivo general del proyecto de extensión es contribuir desde la UNLP y el Club de Robótica aportando conocimientos a los estudiantes secundarios de colegios técnicos de la región, y acercarlos desde la electrónica y la programación a la robótica y a nuevas tecnologías. El proyecto está vigente desde el año 2018 hasta la fecha.
+permalink: /extension/
+---
+	{% for postrecito in site.data.extension %}
+		<div class="post_block">
+				<img src="{{ postrecito.img }}"/>
+				<a class="page-block-link"  title="{{ postrecito.titulo }}" href="{{ postrecito.link }}"><span></span></a>
+				<div class="post_block_content">
+					<a class="post_block_link" href="{{ postrecito.link }}"><h2>{{ postrecito.titulo }}</h2></a>
+					<p class="text-muted" style="margin-top:25px"> {{postrecito.desc}}</p>
+				</div>
+			</div>
+		<hr style="border:dashed 1px #ddd">
+
+	{% endfor %}
+
